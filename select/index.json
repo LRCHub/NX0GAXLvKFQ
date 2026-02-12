@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Do-Did-Done",
+  "base_artist": "BEYOOOOONDS",
+  "createdAt": "2026-02-12T20:02:17.635143Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Do Did Done",
+      "artist": "Henrik Freischlader",
+      "has_synced": false,
+      "path": "select/01_Do_Did_Done_Henrik_Freischlader.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Do-Did-Done",
+      "artist": "BEYOOOOONDS",
+      "has_synced": false,
+      "path": "select/pl_01_Do-Did-Done_BEYOOOOONDS.txt"
+    }
+  ]
+}
